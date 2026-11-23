@@ -1,4 +1,3 @@
-# GenAI Satellite Workshop @ HIC 2026
-
+# AI-assisted Data Analysis Training at University Library Leipzig
 https://scads.github.io/hic-genai-2026/
 
