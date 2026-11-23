@@ -1,3 +1,3 @@
 # AI-assisted Data Analysis Training at University Library Leipzig
-https://scads.github.io/hic-genai-2026/
+https://scads.github.io/ai-da-2026
 
