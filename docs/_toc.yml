@@ -1,0 +1,49 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Preparation
+    chapters:
+    - file: setup.md
+      sections:
+      - file: setup_jup_nfdi.md
+      - file: setup_python_locally.md
+    - file: 01_our_first_juptyer_notebook.ipynb
+    - file: 02_Dont_try_this_at_home.ipynb
+
+  - caption: Exercises
+    chapters:
+    - file: 03_demo
+      sections:
+      - file: solution_03_demo
+    
+    
+    - file: 04_slicing
+      sections:
+      - file: solution_slicing
+    
+    - file: 05_generate_notebook
+      sections:
+      - file: solution_05_generate_notebook.ipynb
+
+    - file: 06_statistical_testing
+      sections:
+      - file: solution_06_statistical_testing
+
+  - caption: Advanced
+    chapters:
+    - file: 11_accessing_blablador.ipynb
+    - file: 12_non-deterministic-llms.ipynb
+    - file: 14_vision_blablador.ipynb
+    
+  - caption: Links
+    chapters:
+    #- url: https://doi.org/10.5281/zenodo.24082015
+    #  title: Slides
+    - url: https://creativecommons.org/licenses/by/4.0/
+      title: License CC-BY 4.0
+    - file: imprint
+
