@@ -23,7 +23,7 @@ parts:
     
     - file: 04_slicing
       sections:
-      - file: solution_slicing
+      - file: solution_04_slicing
     
     - file: 05_generate_notebook
       sections:
