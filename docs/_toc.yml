@@ -41,8 +41,8 @@ parts:
     
   - caption: Links
     chapters:
-    #- url: https://doi.org/10.5281/zenodo.24082015
-    #  title: Slides
+    - file: GenAI_DS_v2.pdf
+      title: Slides
     - url: https://creativecommons.org/licenses/by/4.0/
       title: License CC-BY 4.0
     - file: imprint
