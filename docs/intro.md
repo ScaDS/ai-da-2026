@@ -2,7 +2,7 @@
 
 This page contains materials for the AI-assisted Data Analysis Training at the University Library Leipzig / Medicine on Novemer 26th 2026.
 
-The slides [are available online](GenAI_DS_v2.pdf).
+The slides [are available online](https://doi.org/10.5281/zenodo.24495666).
 
 
 ## Practical session: target audience
