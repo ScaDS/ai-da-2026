@@ -37,6 +37,10 @@ parts:
       sections:
       - file: solution_07_weather.ipynb
 
+    - file: 08_maps.ipynb
+      sections:
+      - file: solution_08_maps.ipynb
+
   - caption: Advanced
     chapters:
     - file: 11_accessing_blablador.ipynb
