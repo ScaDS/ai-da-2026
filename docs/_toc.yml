@@ -33,6 +33,10 @@ parts:
       sections:
       - file: solution_06_statistical_testing
 
+    - file: 07_weather.ipynb
+      sections:
+      - file: solution_07_weather.ipynb
+
   - caption: Advanced
     chapters:
     - file: 11_accessing_blablador.ipynb
